@@ -58,6 +58,8 @@ a#mainlink:focus{
 	font-size: 5vw;
 	color:#8069D9;
 	text-shadow: 7px 7px #474461;
+	top: 0;
+	right: 20px;
 }
 
 .fa-arrow-right{
