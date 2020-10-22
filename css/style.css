@@ -37,32 +37,32 @@ h1{
 }
 
 a#mainlink:link{
-	color:  #00D8F5;
+	color:  #8069D9;
 }
 
 a#mainlink:visited{
-    color:  #00D8F5;	
+    color:  #8069D9;	
 }
 
 a#mainlink:hover{
 	font-size: 103%;
-	color:  #00D8F5;
+	color:  #8069D9;
 }
 
 a#mainlink:focus{
 	font-size: 103%;
-	color:  #00D8F5;
+	color:  #8069D9;
 }
 
 .fa-arrow-left{
 	font-size: 5vw;
-	color:#00D8F5;
+	color:#8069D9;
 	text-shadow: 7px 7px #474461;
 }
 
 .fa-arrow-right{
 	font-size: 5vw;
-	color:#00D8F5;
+	color:#8069D9;
 	text-shadow: 7px 7px #474461;
 	position: absolute;
     top: 0;
